@@ -15,7 +15,7 @@ pipeline {
             steps {
                 script {
                     echo "Running the C++ program..."
-                    sh './PES1UG22AM125-1'  
+                    sh '.././PES1UG22AM125-1'  
                 }
             }
         }
